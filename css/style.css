@@ -135,6 +135,7 @@ a.navbar-item:hover>*,a.navbar-item:hover>* i{
     -ms-backface-visibility:     hidden;
     backface-visibility:hidden;
     transition:all 0.5s ease;
+    margin-bottom: 1.5em;
     cursor:pointer;
 }
 .portfolio-card:hover{

@@ -68,4 +68,5 @@ function toggleOffModal(id) {
 }
 
 
-window.addEventListener('load', init)
+//window.addEventListener('load', init)*
+setTimeout(init, 200);
